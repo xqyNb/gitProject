@@ -1,7 +1,7 @@
 <?php
 
-echo 'test';
-
+echo 'tewst';
+echo 'hello word!';
 
 
 
